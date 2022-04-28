@@ -1,4 +1,4 @@
-import numpy as np
+https://github.com/MariamAlnaqbi/SL-Classification-SVC--simple-.gitimport numpy as np
 import matplotlib.pyplot as plt
 from sklearn import svm
 from matplotlib import style
